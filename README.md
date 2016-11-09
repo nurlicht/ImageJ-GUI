@@ -3,6 +3,8 @@
 Interactive analysis / design with ImageJ Macros and Plugins
 </p>
 
-<img src="/microtubuleSynth.gif" align="middle"></img>
+<p align="center">
+<img src="/microtubuleSynth.gif"></img>
 <br/><br/><br/><br/>
-<img src="/interactiveGaussianSynth.gif" align="middle"></img>
+<img src="/interactiveGaussianSynth.gif"></img>
+</p>
